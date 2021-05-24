@@ -13,7 +13,7 @@ telefono VARCHAR UNIQUE
 );
 --crear tabla libros
 CREATE TABLE libros(
-ISBN VARCHAR(13) PRIMARY KEY,
+ISBN VARCHAR(15) PRIMARY KEY,
 titulo VARCHAR,
 cod_autor VARCHAR,
 paginas VARCHAR,
