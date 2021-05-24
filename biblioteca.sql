@@ -1,3 +1,4 @@
+DROP DATABASE IF EXISTS biblioteca;
 --crear base de datos
 CREATE DATABASE biblioteca;
 --entrar a base de datos
