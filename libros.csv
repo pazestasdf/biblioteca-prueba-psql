@@ -1,4 +1,4 @@
-ISBN,titulo,cod_autor,nombre_autor,apellido_autor,nacimiento_muerte,tipo_autor,dias_prestamo
+ISBN,titulo,paginas,cod_autor,nombre_autor,apellido_autor,nacimiento_muerte,tipo_autor,dias_prestamo
 111-1111111-111,CUENTOS DE TERROR,344,3,JOSE,SALGADO,1968-2020,PRINCIPAL,7
 111-1111111-111,CUENTOS DE TERROR,344,4,ANA,SALGADO,1972-,COAUTOR,7
 222-2222222-222,POESÍAS CONTEMPORANEAS,167,1,ANDRÉS,ULLOA,1982-,PRINCIPAL,7
